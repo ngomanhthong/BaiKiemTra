@@ -1,0 +1,9 @@
+Teacher1:36:Hue:3000000
+Worker1:30:DaNang:4500000
+Worker2:30:DaNang:2000000
+Teacher3:36:Hue:7000000
+Worker3:30:DaNang:400000
+Worker4:30:DaNang:2200000
+Teacher2:36:Hue:3500000
+Worker5:30:DaNang:6500000
+Worker6:30:DaNang:1000000
